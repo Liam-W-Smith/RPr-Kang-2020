@@ -14,6 +14,7 @@ The replication study authors are:
 - [Derrick Burt](https://derrickburt.github.io)
 - [Peter Kedron](https://sgsup.asu.edu/peter-kedron)
 - [GEOG 323 Class of Spring 2021](https://gis4dev.github.io)
+- [GEOG 323 Class of Fall 2021](https://gis4dev.github.io)
 
 # Original Accessibility Notebook readme.md Content
 
