@@ -2,3 +2,4 @@ Directory,File Name,Purpose
 code,01-COVID-Acc-PreProcessing.ipynb,Jupyter notebook python code for downloading and preprocessing most of the population and hospital data
 code,02-COVID-19ACC-Original.ipynb,Jupyter notebook python code logically consistent with the April 19 original version at https://github.com/cybergis/COVID-19AccessibilityNotebook
 code,03-COVID-19ACC-Reanalysis.ipynb,new and revised Jupyter notebook python code
+code,04-Class-Reanalysis.ipynb, my reanalysis
