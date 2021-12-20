@@ -108,18 +108,18 @@ Darker blue represents higher spatial accessibility and lighter blue represents 
 
 ### Accessibility of ICU Beds to Vulnerable Populations
 #### Original Figure (after revisions by GEOG 323 Spring 2021)
-![Accessibility of ICU Beds to Vulnerable Populations, original figure](assets/Kang_OG_Reproduction/pop_icu_class.png)
+![Accessibility of ICU Beds to Vulnerable Populations, original figure](figures-for-report/Kang_OG_Reproduction/pop_icu_class.png)
 #### Updated Figure
-![Accessibility of ICU Beds to Vulnerable Populations, updated figure](assets/Kang_Class_Reproduction/pop_icu_class.png)
+![Accessibility of ICU Beds to Vulnerable Populations, updated figure](figures-for-report/Kang_Class_Reproduction/pop_icu_class.png)
 Note that the extents of the darker blues are much smaller in the updated figure, especially in the northwest and southwest.
 The new figure also includes a section of light blue in the northwest, which was a darker shade in the original figure.
 We will discuss these results further after reviewing the second set of figures.
 
 ### Accessibility of Ventilators to Vulnerable Populations
 #### Original Figure (after revisions by GEOG 323 Spring 2021)
-![Accessibility of Ventilators to Vulnerable Populations, original figure](assets/Kang_OG_Reproduction/pop_vents_class.png)
+![Accessibility of Ventilators to Vulnerable Populations, original figure](figures-for-report/Kang_OG_Reproduction/pop_vents_class.png)
 #### Updated Figure
-![Accessibility of Ventilators to Vulnerable Populations, updated figure](assets/Kang_Class_Reproduction/pop_vents_class.png)
+![Accessibility of Ventilators to Vulnerable Populations, updated figure](figures-for-report/Kang_Class_Reproduction/pop_vents_class.png)
 Similar to the first set of figures, the extents of the darker blues are smaller in the updated figure than in the original figure, especially in the northwest and southwest.
 The new figure also includes a section of light blue in the northwest, where the original figure had been darker.
 
